@@ -8,7 +8,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 <!-- toc -->
 
-- [Applications](#applications)
+- [testing](#applications)
   * [Audio and Music](#audio-and-music)
   * [Cryptocurrencies](#cryptocurrencies)
   * [Database](#database)
