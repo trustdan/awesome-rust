@@ -8,7 +8,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 <!-- toc -->
 
-- [testing](#applications)
+- [Your Guide to Small Business Innovation](#TOC)
   * [Audio and Music](#audio-and-music)
   * [Cryptocurrencies](#cryptocurrencies)
   * [Database](#database)
@@ -110,7 +110,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 <!-- tocstop -->
 
-## Applications
+## TOC
 
 See also [Rust — Production](https://www.rust-lang.org/production) organizations running Rust in production.
 
